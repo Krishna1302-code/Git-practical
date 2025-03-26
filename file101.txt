@@ -1,0 +1,6 @@
+this is 1st line from commit-1
+
+this is 2nd line from commit-2
+
+this is 3rd line from commit-3
+
